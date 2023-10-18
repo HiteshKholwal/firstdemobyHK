@@ -1,2 +1,3 @@
 # firstdemobyHK
-My first repository
+My first git hubrepository
+made by Hitesh Kholwal
